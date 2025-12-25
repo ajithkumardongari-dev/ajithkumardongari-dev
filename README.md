@@ -30,11 +30,14 @@ I enjoy building **end-to-end AI solutions**, working on **research-oriented pro
 - 🔹 **Crop Yield Analysis & Prediction**
 - 🔹 **Sentiment Analysis – Pulse of the Public**
 
----
+### 📄 Research & Publications (IEEE)
+- 📘 **ResNet Repeat Vector Optimized Output Layer based Brain Stroke Prediction**  
+  *IEEE Conference Publication*  
+  Developed a deep learning model using a **ResNet architecture with repeat vector optimization** in the output layer to enhance brain stroke prediction accuracy from medical data.
 
-### 📄 Research & Publications
-- IEEE Conference Publications in **Medical Imaging & AI**
-- Research focus on **Computer Vision, Healthcare AI, and Explainable AI**
+- 📘 **Five Layered Mask-RCNN based Dental Disease Detection from Children Panoramic Radiographs**  
+  *IEEE Conference Publication*  
+  Proposed a **custom five-layer Mask-RCNN architecture** for accurate detection and segmentation of dental diseases from pediatric panoramic X-ray images.
 
 ---
 
