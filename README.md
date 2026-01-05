@@ -6,6 +6,8 @@
 
 I am a graduate student specializing in Artificial Intelligence, Machine Learning, and Generative AI, with hands-on experience building RAG systems, NLP-driven analytics tools, and deep learning models. I enjoy working on real-world AI problems and transforming complex data into intelligent, scalable solutions.
 
+---
+
 🔍 Areas of Interest
 
 Machine Learning & Deep Learning
@@ -17,6 +19,8 @@ Retrieval-Augmented Generation (RAG)
 Computer Vision & Medical Imaging
 
 Data Analytics & AI-driven Automation
+
+---
 
 🛠️ Technical Skills
 
@@ -33,6 +37,8 @@ Computer Vision: Image & Video Classification, Grad-CAM Explainability
 Databases: SQLite, MongoDB, Relational Databases
 
 Tools & Platforms: LangChain, FAISS, Streamlit, Git, GitHub, Google Cloud Platform (GCP)
+
+---
 
 🚀 Featured Projects
 🔹 AI Lawyer – Retrieval-Augmented Generation (RAG)
@@ -53,11 +59,15 @@ Trained a MobileNet–LSTM model for detecting deepfake images and videos.
 
 Applied Grad-CAM for explainability and evaluated performance using standard ML metrics.
 
+---
+
 📄 Publications (IEEE)
 
 ResNet Repeat Vector Optimized Output Layer–Based Brain Stroke Prediction – IEEE GCITC 2023
 
 Five-Layered Mask-RCNN–Based Dental Disease Detection from Children Panoramic Radiographs – IEEE GCITC 2023
+
+---
 
 💼 Professional Experience
 
@@ -65,11 +75,15 @@ Data Analyst Intern – Intellius Recode Private Limited
 
 Worked on SDS document automation and supported development of an AI-based chatbot using Python and NLP concepts.
 
+---
+
 🎓 Education
 
 Master of Science in Computer Science, Anderson University, USA — GPA: 4.0/4.0
 
 Bachelor of Technology in Artificial Intelligence and Data Science, Vel Tech University — CGPA: 8.6/10
+
+---
 
 📜 Certifications
 
