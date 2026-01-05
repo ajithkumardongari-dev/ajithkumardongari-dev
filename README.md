@@ -1,57 +1,83 @@
-## Hi there 👋 I'm Ajith Kumar Dongari
+👋 Hi, I’m Dongari Ajith Kumar
 
-🎓 B.Tech in Artificial Intelligence & Data Science  
-🎯 Aspiring Machine Learning Engineer | AI Research Enthusiast  
-📍 MS Student | Computer Science  
+🎓 MS in Computer Science @ Anderson University, USA (GPA: 4.0/4.0)
+🤖 AI / Machine Learning Enthusiast | GenAI | Deep Learning | Data Science
+📍 South Carolina, USA
 
----
+I am a graduate student specializing in Artificial Intelligence, Machine Learning, and Generative AI, with hands-on experience building RAG systems, NLP-driven analytics tools, and deep learning models. I enjoy working on real-world AI problems and transforming complex data into intelligent, scalable solutions.
 
-### 🔍 About Me
-I am an AI & Data Science graduate with strong hands-on experience in **Machine Learning, Deep Learning, and real-time AI systems**.  
-I enjoy building **end-to-end AI solutions**, working on **research-oriented projects**, and deploying models for real-world applications.
+🔍 Areas of Interest
 
----
+Machine Learning & Deep Learning
 
-### 🛠️ Tech Stack
-**Languages:** Python, Java, SQL  
-**Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
-**Deep Learning:** CNNs, LSTM, MobileNet  
-**Computer Vision:** OpenCV  
-**NLP:** Hugging Face, LangChain  
-**Data & Cloud:** Pandas, NumPy, MongoDB, GCP  
-**Tools:** Git, Streamlit, Docker  
+Generative AI & Large Language Models (LLMs)
 
----
+Retrieval-Augmented Generation (RAG)
 
-### 🚀 Featured Projects
-- 🔹 **Real-Time Deepfake Detection** (MobileNet + LSTM, Streamlit)
-- 🔹 **Stock Market Prediction** using LSTM
-- 🔹 **Edubot – AI Education Chatbot**
-- 🔹 **Crop Yield Analysis & Prediction**
-- 🔹 **Sentiment Analysis – Pulse of the Public**
+Computer Vision & Medical Imaging
 
-### 📄 Research & Publications (IEEE)
-- 📘 **ResNet Repeat Vector Optimized Output Layer based Brain Stroke Prediction**  
-  *IEEE Conference Publication*  
-  Developed a deep learning model using a **ResNet architecture with repeat vector optimization** in the output layer to enhance brain stroke prediction accuracy from medical data.
+Data Analytics & AI-driven Automation
 
-- 📘 **Five Layered Mask-RCNN based Dental Disease Detection from Children Panoramic Radiographs**  
-  *IEEE Conference Publication*  
-  Proposed a **custom five-layer Mask-RCNN architecture** for accurate detection and segmentation of dental diseases from pediatric panoramic X-ray images.
+🛠️ Technical Skills
 
----
+Programming: Python, SQL
 
-### 🌱 Currently Learning
-- Advanced Deep Learning Architectures  
-- Explainable AI (Grad-CAM, Model Interpretability)  
-- Edge AI & Model Optimization  
+Machine Learning: Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation
 
----
+Deep Learning: CNNs, RNNs, LSTMs, PyTorch, TensorFlow/Keras
 
-### 🤝 Open To
-- AI/ML Internships  
-- Research Internships  
-- Open-source Collaboration  
+Generative AI: LLMs, RAG, Prompt Engineering
+
+Computer Vision: Image & Video Classification, Grad-CAM Explainability
+
+Databases: SQLite, MongoDB, Relational Databases
+
+Tools & Platforms: LangChain, FAISS, Streamlit, Git, GitHub, Google Cloud Platform (GCP)
+
+🚀 Featured Projects
+🔹 AI Lawyer – Retrieval-Augmented Generation (RAG)
+
+Built an end-to-end RAG pipeline for answering legal questions from PDF documents.
+
+Used FAISS semantic search and DeepSeek-R1 LLM to generate grounded, context-aware responses.
+
+🔹 AI Data Analyst – Natural Language to SQL
+
+Developed a system that converts natural language queries into SQL using schema-aware prompting.
+
+Enabled reliable analytics through deterministic LLM inference and structured query execution.
+
+🔹 Deepfake Detection System (CNN–LSTM)
+
+Trained a MobileNet–LSTM model for detecting deepfake images and videos.
+
+Applied Grad-CAM for explainability and evaluated performance using standard ML metrics.
+
+📄 Publications (IEEE)
+
+ResNet Repeat Vector Optimized Output Layer–Based Brain Stroke Prediction – IEEE GCITC 2023
+
+Five-Layered Mask-RCNN–Based Dental Disease Detection from Children Panoramic Radiographs – IEEE GCITC 2023
+
+💼 Professional Experience
+
+Data Analyst Intern – Intellius Recode Private Limited
+
+Worked on SDS document automation and supported development of an AI-based chatbot using Python and NLP concepts.
+
+🎓 Education
+
+Master of Science in Computer Science, Anderson University, USA — GPA: 4.0/4.0
+
+Bachelor of Technology in Artificial Intelligence and Data Science, Vel Tech University — CGPA: 8.6/10
+
+📜 Certifications
+
+AWS Certified Machine Learning Engineer – Associate
+
+AWS Certified Generative AI Developer – Professional (In Progress)
+
+Google Professional Machine Learning Engineer (In Progress)
 
 ---
 
